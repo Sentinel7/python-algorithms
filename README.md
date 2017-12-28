@@ -1,5 +1,18 @@
-# Python Algorithms (P-1)
-This repository is an accumulation of many of my first algorithms that I have written in Python.
+# Algorithms (P-1)
+This repository contains a large set of algorithms which I have written in Python. I've created this repository to learn about algorithms and improve solving different common computer science problems.
 
-### Jupyter Notebook Files:
-To view and try out the .ipynb files, go to https://try.jupyter.org/ and upload them there.
+### Sorting:
+
+* Bubblesort.ipynb
+* Insert+MergeSorts.ipynb (contains both Merge and Insertion sorts)
+* InsertionSort1.ipynb
+
+### Searching:
+
+* BinarySearch.ipynb
+* BinarySearch.py (same as above, but in .py file)
+
+### Other:
+
+* FlipCaps.ipynb (common compression algorithm, from Programming-Puzzled book)
+* QuizQuestion.ipynb
