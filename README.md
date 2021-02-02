@@ -1,5 +1,5 @@
 # Algorithms
-This repository contains a large set of algorithms which I have written in Python. I've created this repository to learn about algorithms and improve solving different common computer science problems. Many of the files have self-explanatory names.
+This repository contains a collection of classic and more specialized algorithms that I have written in Python.
 
 ### Sorting:
 
